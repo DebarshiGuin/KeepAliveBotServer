@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "KeepTheServerAliveBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Meowww-mYNX.aternos.me",
+    "port": 54996,
     "version": "",
     "try-creative": false
   },
